@@ -1,6 +1,6 @@
 name := "sql-avro"
 
-version := "0.1"
+version := "0.1-SNAPSHOT"
 
 organization := "org.apache.spark.sql"
 
