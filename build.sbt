@@ -6,7 +6,7 @@ organization := "org.apache.spark.sql"
 
 scalaVersion := "2.10.4"
 
-libraryDependencies +=  "org.apache.spark" % "spark-sql_2.10" % "1.2.0"
+libraryDependencies += "org.apache.spark" %% "spark-sql" % "1.2.0"
 
 libraryDependencies += "org.apache.avro" % "avro" % "1.7.7"
 
